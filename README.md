@@ -15,4 +15,4 @@ In **Mystery Quest**, your objective is clear: **explore a mysterious world**, s
 - **inventory**: Check the items you've collected.
 - **exit**: Quit the game.
 
-### Example Gameplay:
+
